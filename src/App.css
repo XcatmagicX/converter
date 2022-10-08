@@ -1,0 +1,33 @@
+*{
+    font-family: cursive;
+}
+
+.times, .select{
+    padding: 0;
+    margin: 0;
+    width: 60px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: rgb(38, 104, 148);
+    color: white;
+    text-align: center;
+}
+
+.result{
+    font-size: 25px;
+}
+
+p{
+    color: white;
+}
+
+.app{
+    width: 220px;
+    height: 320px;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 auto;
+    background: rgb(65, 156, 216);
+}
